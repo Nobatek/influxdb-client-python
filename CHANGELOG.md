@@ -3,6 +3,9 @@
 ### Bug Fixes
 1. [#193](https://github.com/influxdata/influxdb-client-python/pull/193): Fixed `tasks_api` to use proper function to get `Run`
 
+### CI
+1. [#199](https://github.com/influxdata/influxdb-client-python/pull/199): Updated stable image to `influxdb:latest` and nightly to `quay.io/influxdb/influxdb:nightly`
+
 ## 1.14.0 [2021-01-29]
 
 ### Features
